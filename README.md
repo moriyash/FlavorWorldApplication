@@ -351,7 +351,7 @@ const socket = io('http://your-server-url:3000');
 
 **Developer:** Moriya Shalom  
 **Email:** MoriyaShalom2002@gmail.com  
-**GitHub:** [https://github.com/LirChen](https://github.com/moriyash)
+**GitHub:** [https://github.com/moriyash](https://github.com/moriyash)
 
 ---
 
